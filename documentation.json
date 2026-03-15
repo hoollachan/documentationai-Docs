@@ -40,6 +40,11 @@
             "icon": "layers",
             "pages": [
               {
+                "title": "test1",
+                "path": "test1",
+                "icon": "lucide-test-tube-diagonal"
+              },
+              {
                 "title": "Images",
                 "path": "components/images",
                 "icon": "image"
